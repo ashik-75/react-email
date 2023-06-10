@@ -35,8 +35,8 @@ const Email = ({ name = "Alan" }: EmailProps) => {
           theme: {
             extend: {
               fontFamily: {
-                roboto: `'Roboto', sans-serif`,
-                inter: `'Inter', sans-serif`,
+                roboto: `Roboto, sans-serif`,
+                inter: `Inter', sans-serif`,
               },
             },
           },
